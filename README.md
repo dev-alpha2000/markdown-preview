@@ -7,3 +7,24 @@ Markdown Syntax Support: Supports common Markdown elements like headings, lists,
 Responsive Design: Fully responsive for mobile, tablet, and desktop users.
 Real-time Updates: Instant feedback and rendering as the Markdown input changes.
 
+Installation
+To run this project locally, follow these steps:
+
+Clone the repository:
+
+bash
+Copy code
+git clone https://github.com/yourusername/markdown-preview-app.git
+cd markdown-preview-app
+Install the dependencies:
+
+bash
+Copy code
+npm install
+Start the development server:
+
+bash
+ code
+npm start
+The app will be available at http://localhost:3000.
+
